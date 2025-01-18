@@ -1,0 +1,7 @@
+AskMeSqlService.ts
+in/mbs/nl2sql/AskMeSQL/services/AskMeSqlService/SqlResultService/SqlRequest.ts
+in/mbs/nl2sql/AskMeSQL/services/AskMeSqlService/SqlResultService/SqlResponse.ts
+connect-client.default.ts
+endpoints.ts
+in/mbs/nl2sql/AskMeSQL/services/AskMeSqlService/SqlResultService/SqlRequestModel.ts
+in/mbs/nl2sql/AskMeSQL/services/AskMeSqlService/SqlResultService/SqlResponseModel.ts
